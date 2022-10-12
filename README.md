@@ -1,20 +1,20 @@
 # beacademy_git_github
-1. Aprendendo Git e Github
+## Aprendendo Git e Github
 
-Comandos usados:
-
-• Inicializar um projeto ---------------------- (git init)
-• Clonação de projeto ------------------------- (git clone + HTTPS ou SSH)
-• Limpar tela --------------------------------- (clear)
-• Criação de arquivos ------------------------- (touch + nome do arquivo)
-• Deletar arquivos do área de staging --------- (git rm)
-• Ver status ---------------------------------- (git status)
-• Criação de branchs -------------------------- (git branch + nome da branch)
-• Trocar branchs ------------------------------ (git checkout + nome da branch)
-• Fusión de branchs --------------------------- (git merge + nome da branch)
-• Deletar branch no local --------------------- (git branch -d + nome da branch)
-• Rastreio de arquivos ------------------------ (git add .)
-• Confirmação de mudanças --------------------- (git commit + mensagem)
-• Envio ate o rep. remoto --------------------- (git push ou git push origin (branch))
-• Trazer mudanças do rep. remoto -------------- (git pull)
-• Histórico dos commits ----------------------- (git log)
+__Comandos usados__                            | __Descripção__  
+:--------------------------------------------- | :---------------------------------------------
+*__git init__*                                 | *__Inicializar um projeto__*
+*__git clone + HTTPS ou SSH__*                 | *__Clonação de projeto__*
+*__clear__*                                    | *__Limpar tela__*
+*__touch + nome do arquivo__*                  | *__Criação de arquivos__*
+*__git rm__*                                   | *__Deletar arquivos do área de staging__*
+*__git status__*                               | *__Ver status__*
+*__git branch + nome da branch__*              | *__Criação de branchs__*
+*__git checkout + nome da branch__*            | *__Trocar branchs__*
+*__git merge + nome da branch__*               | *__Fusión de branchs__*
+*__git branch -d + nome da branch__*           | *__Deletar branch no local__*
+*__git add .__*                                | *__Rastreio de arquivos__*
+*__git commit + mensagem__*                    | *__Confirmação de mudanças__*
+*__git push ou git push origin (branch)__*     | *__Envio ate o rep. remoto__*
+*__git pull__*                                 | *__Trazer mudanças do rep. remoto__*
+*__git log__*                                  | *__Histórico dos commits__*
