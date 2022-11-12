@@ -1,4 +1,4 @@
-# beacademy_git_github
+# BeAcademy_FromZeroToHero_Git_Github
 ## Aprendendo Git e Github
 
 __Comandos usados__                            | __Descripção__  
